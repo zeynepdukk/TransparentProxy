@@ -1,0 +1,4 @@
+POST http://example.com/ HTTP/1.1
+GET http://example.com/ HTTP/1.1
+PUT http://example.com/ HTTP/1.1
+Cached URL: http://example.com/ with Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
