@@ -24,7 +24,7 @@ A simple transparent proxy server and graphical user interface (GUI) application
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/transparent-proxy.git
+   git clone https://github.com/zeynepdukk/transparent-proxy.git
 2. Navigate to the project directory:
    ```bash
    cd transparent-proxy
